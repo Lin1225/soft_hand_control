@@ -1,0 +1,8 @@
+prefix=/home/iclab/softhand_ros/devel
+
+Name: qb_device_utils
+Description: Description of qb_device_utils
+Version: 2.1.1
+Cflags: -I/home/iclab/softhand_ros/src/qbdevice-ros/qb_device_utils/include
+Libs: -L${prefix}/lib 
+Requires: roscpp

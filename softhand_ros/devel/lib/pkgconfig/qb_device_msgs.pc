@@ -1,0 +1,8 @@
+prefix=/home/iclab/softhand_ros/devel
+
+Name: qb_device_msgs
+Description: Description of qb_device_msgs
+Version: 2.1.1
+Cflags: -I/home/iclab/softhand_ros/devel/include -I/home/iclab/softhand_ros/src/qbdevice-ros/qb_device_msgs/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

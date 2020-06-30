@@ -1,0 +1,8 @@
+prefix=/home/iclab/softhand_ros/devel
+
+Name: qb_hand_description
+Description: Description of qb_hand_description
+Version: 2.1.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

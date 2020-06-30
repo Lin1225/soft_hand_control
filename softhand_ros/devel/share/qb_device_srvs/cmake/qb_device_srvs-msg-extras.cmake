@@ -1,0 +1,2 @@
+set(qb_device_srvs_MESSAGE_FILES "")
+set(qb_device_srvs_SERVICE_FILES "/home/iclab/softhand_ros/src/qbdevice-ros/qb_device_srvs/srv/GetMeasurements.srv;/home/iclab/softhand_ros/src/qbdevice-ros/qb_device_srvs/srv/InitializeDevice.srv;/home/iclab/softhand_ros/src/qbdevice-ros/qb_device_srvs/srv/SetCommands.srv;/home/iclab/softhand_ros/src/qbdevice-ros/qb_device_srvs/srv/SetPID.srv;/home/iclab/softhand_ros/src/qbdevice-ros/qb_device_srvs/srv/Trigger.srv")

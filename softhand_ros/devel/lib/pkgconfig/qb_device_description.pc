@@ -1,0 +1,8 @@
+prefix=/home/iclab/softhand_ros/devel
+
+Name: qb_device_description
+Description: Description of qb_device_description
+Version: 2.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

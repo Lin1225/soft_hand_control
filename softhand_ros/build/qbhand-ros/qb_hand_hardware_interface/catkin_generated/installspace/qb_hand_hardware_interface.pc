@@ -1,0 +1,8 @@
+prefix=/home/iclab/softhand_ros/install
+
+Name: qb_hand_hardware_interface
+Description: Description of qb_hand_hardware_interface
+Version: 2.1.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lqb_hand_hardware_interface
+Requires: roscpp control_toolbox transmission_interface qb_device_hardware_interface

@@ -1,0 +1,8 @@
+prefix=/home/iclab/softhand_ros/devel
+
+Name: qb_device_hardware_interface
+Description: Description of qb_device_hardware_interface
+Version: 2.1.1
+Cflags: -I/home/iclab/softhand_ros/src/qbdevice-ros/qb_device_hardware_interface/include
+Libs: -L${prefix}/lib -lqb_device_hardware_interface
+Requires: roscpp hardware_interface joint_limits_interface transmission_interface urdf qb_device_msgs qb_device_srvs

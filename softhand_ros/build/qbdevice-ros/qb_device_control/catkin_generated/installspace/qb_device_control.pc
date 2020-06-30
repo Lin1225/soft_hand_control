@@ -1,0 +1,8 @@
+prefix=/home/iclab/softhand_ros/install
+
+Name: qb_device_control
+Description: Description of qb_device_control
+Version: 2.1.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lqb_device_control
+Requires: roscpp actionlib combined_robot_hw control_msgs controller_manager qb_device_hardware_interface qb_device_utils

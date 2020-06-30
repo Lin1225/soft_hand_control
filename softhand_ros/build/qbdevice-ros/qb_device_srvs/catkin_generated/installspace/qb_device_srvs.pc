@@ -1,0 +1,8 @@
+prefix=/home/iclab/softhand_ros/install
+
+Name: qb_device_srvs
+Description: Description of qb_device_srvs
+Version: 2.1.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_srvs qb_device_msgs message_runtime
